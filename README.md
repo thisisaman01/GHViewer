@@ -2,7 +2,7 @@
 A polished iOS app for discovering GitHub profiles with smooth animations and a professional user experience.
 
 
-✨ Features
+- ✨ Features
 
 🔍 Smart Search – Find GitHub users with real-time validation
 
@@ -17,7 +17,7 @@ A polished iOS app for discovering GitHub profiles with smooth animations and a 
 💎 Professional Polish – Skeleton loading, haptic feedback, image caching
 
 
-🛠️ Quick Start
+- 🛠️ Quick Start
 
 Open GitHubProfileLookup.xcodeproj in Xcode
 
@@ -28,7 +28,7 @@ Run with ⌘ + R
 Try searching octocat to see it in action
 
 
-🧱 Architecture
+- 🧱 Architecture
 
 🧭 MVC Pattern – Clean separation of concerns
 
@@ -39,7 +39,7 @@ Try searching octocat to see it in action
 ⚙️ Modern Swift – Uses async/await for smooth networking
 
 
-🔍 Technical Highlights
+- 🔍 Technical Highlights
 
 🦴 Custom skeleton loading animations
 
